@@ -8,8 +8,10 @@ Steve Swerling³, Jamie Rosen³, Elgar Fleisch¹², Patrick Langer¹**
 ³ WayBetter  
 
 Emails:  
-<rmanichand@ethz.ch>, <rjakob@ethz.ch>, <rdeuber@ethz.ch>,  
+<rmanichand@ethz.ch>, <rdeuber@ethz.ch>, <rjakob@ethz.ch>, 
 <steve@waybetter.app>, <jamie@waybetter.app>, <efleisch@ethz.ch>, <planger@ethz.ch>
+
+[VIDEOS HERE]
 
 ---
 
