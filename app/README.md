@@ -8,6 +8,7 @@ The app uses a multi-stage pipeline:
 1. **Person Detection** - EfficientDet-Lite4 to detect and locate people in images
 2. **Posture Analysis** - MoveNet Thunder for keypoint detection and posture classification
 3. **BMI Estimation** - Custom DenseNet model to estimate BMI from processed images
+<img width="1560" height="935" alt="deployed" src="https://github.com/user-attachments/assets/86a44d0c-b276-4e21-b19d-4619ebc045eb" />
 
 ## Project Structure
 
