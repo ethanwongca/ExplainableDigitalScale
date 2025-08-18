@@ -1,4 +1,4 @@
-# Digital Scale: Robust On-Device BMI Estimation from Smartphone Camera Images
+# Digital Scale: Open-Source On-Device BMI Estimation from Smartphone Camera Images
 
 **Frederik Rajiv Manichand¹³, Robin Deuber¹, Robert Jakob¹,
 Steve Swerling³, Jamie Rosen³, Elgar Fleisch¹², Patrick Langer¹**
