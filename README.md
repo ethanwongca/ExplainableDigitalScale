@@ -1,6 +1,6 @@
 # Digital Scale: Robust On-Device BMI Estimation from Smartphone Camera Images
 
-**Frederik Rajiv Manichand¹³, Robert Jakob¹, Robin Deuber¹,  
+**Frederik Rajiv Manichand¹³, Robin Deuber¹, Robert Jakob¹,
 Steve Swerling³, Jamie Rosen³, Elgar Fleisch¹², Patrick Langer¹**
 
 ¹ Centre for Digital Health Interventions, ETH Zurich  
