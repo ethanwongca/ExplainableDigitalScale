@@ -11,9 +11,9 @@ Emails:
 <rmanichand@ethz.ch>, <rdeuber@ethz.ch>, <rjakob@ethz.ch>, 
 <steve@waybetter.app>, <jamie@waybetter.app>, <efleisch@ethz.ch>, <planger@ethz.ch>
 
-https://github.com/user-attachments/assets/1d9409d7-5ee1-4f89-b7f5-bd2cabe3f046
+https://github.com/user-attachments/assets/7df779f2-04ac-441e-a337-2ad11b678f66
 
-https://github.com/user-attachments/assets/16425cc6-fd10-4147-8c6b-732b9997ca54
+https://github.com/user-attachments/assets/f0e0bc79-1054-4397-9489-ba45a27e2336
 
 ---
 
