@@ -7,7 +7,7 @@ from typing import Optional
 import src.models.densenet.utils as densenet_utils  # type: ignore
 
 
-# STD and Mean from imagenet, we do not take our own mean and std in accordance with Jin et al. (2022)
+# STD and Mean from imagenet
 IMG_MEAN = [0.485, 0.456, 0.406]
 IMG_STD = [0.229, 0.224, 0.225]
 IMG_SIZE = 224
@@ -61,9 +61,6 @@ def get_dataloader(
     return train_loader, val_loader, test_loader
 
 
-# Idea Patrick:
-# Implement dataloader as torch dataloader as well as a claid module
-# That way we can use the class at training time and at inference time using claid
 class WaybetterDataset(torch.utils.data.Dataset):
     def __init__(
         self,
